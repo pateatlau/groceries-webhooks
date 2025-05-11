@@ -1,6 +1,8 @@
-# Groceries Microservices
+# Groceries Webhooks
 
 ## Overview
+
+Microservices using http-based webhooks for inter-services communication.
 
 1. It consists of the following services:
 
